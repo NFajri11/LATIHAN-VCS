@@ -12,8 +12,8 @@ Pindahkan ke data D : Latihan-VCS dengan cara "cd /d/Latihan-VCS/ ,lalu lakukan 
 ###### Buat commit atas file yang ditambahkan
 ![Gambar 4](screenshot/ss4.png)
 ###### Push ke Github
-Lakukan push ke github dengan cara mengetik "git push -u origin main" lalu tekan enter
+Lakukan push ke github dengan cara mengetik "git push -u origin main" lalu tekan enter 
 ![Gambar 5](screnshot/ss5.png)
 ###### Selesai
-file yang telah dipush akan muncul pada repository github
+file yang telah dipush akan muncul pada repository github 
 ![Gambar 6](screenshot/ss6.png)
